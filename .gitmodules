@@ -1,0 +1,3 @@
+[submodule "FOLKFramework"]
+	path = FOLKFramework
+	url = git@github.com:njligames/FOLKFramework.git
